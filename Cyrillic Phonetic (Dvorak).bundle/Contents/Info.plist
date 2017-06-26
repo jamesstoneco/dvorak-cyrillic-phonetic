@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.cyrillicphonetic(dvorak)</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>Cyrillic Phonetic (Dvorak)</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_Russian - Phonetic (Dvorak)</key>
+	<key>KLInfo_Cyrillic - Phonetic (Dvorak)</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..russian-phonetic(dvorak)</string>
+		<string>org.sil.ukelele.keyboardlayout.cyrillicphonetic(dvorak).cyrillic-phonetic(dvorak)</string>
 		<key>TISIntendedLanguage</key>
-		<string>ru</string>
+		<string>uk-UA</string>
 	</dict>
 </dict>
 </plist>
